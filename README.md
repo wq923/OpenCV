@@ -36,3 +36,13 @@ OpenCV Practice.
     
     保存图片用 cv2.imgwrite(),保存视频稍复杂，需要先创建 VideoWriter 对象，然后确定输出视频文件名称，最后指定 FOURCC 编码，播放频率和帧大小，
     是否彩色等
+    
+## 2.3 画图
+常用 API
+
+    cv2.line()
+    cv2.circle()
+    cv2.rectangle()
+    cv2.ellipse()
+    cv2.putText()
+    
