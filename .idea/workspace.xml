@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="edf82ef8-8441-4dca-9242-0a193883f01d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/mouse_paint/circle.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mouse_paint/circle01.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mouse_paint/mouse_event.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mouse_paint/mouse_event_advance.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mouse_paint/rectangle.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mouse_paint/rectangle01.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -43,8 +38,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="190">
-                <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+              <first_editor relative-caret-position="399">
+                <caret line="69" column="44" lean-forward="false" selection-start-line="69" selection-start-column="44" selection-end-line="69" selection-end-column="55" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -391,7 +386,14 @@
       <option name="project" value="LOCAL" />
       <updated>1531566338922</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="1、添加 OpenCV 鼠标事件监听功能。">
+      <created>1531566488382</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1531566488382</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -807,8 +809,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="190">
-            <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+          <first_editor relative-caret-position="399">
+            <caret line="69" column="44" lean-forward="false" selection-start-line="69" selection-start-column="44" selection-end-line="69" selection-end-column="55" />
             <folding />
           </first_editor>
           <second_editor />
