@@ -58,13 +58,13 @@ OpenCV Practice.
 第一个参数为监听的窗口，第二个参数为回调函数，鼠标触发的任何事件，都将立刻通知draw_listener2。
 
 (1)、在窗口中，鼠标双击位置画圆        
-![Alt Text](https://github.com/wq923/OpenCV/blob/master/mouse_paint/circle.png)    
-![Alt Text](https://github.com/wq923/OpenCV/blob/master/mouse_paint/circle01.png)    
+![Alt Text](https://github.com/wq923/OpenCV/mouse_paint/circle.png)    
+![Alt Text](https://github.com/wq923/OpenCV/mouse_paint/circle01.png)    
 
 (2)、在窗口中，鼠标拖动的区域画圆或者矩形    
-![Alt Text](https://github.com/wq923/OpenCV/blob/master/mouse_paint/rectangle01.png)    
+![Alt Text](https://github.com/wq923/OpenCV/mouse_paint/rectangle01.png)    
 
 
 最终实践中的画空心矩形不是很理想，后续是否可以通过增加透明图层的方式进行绘制？        
 
-![Alt Text](https://github.com/wq923/OpenCV/blob/master/mouse_paint/rectangle.png)
+![Alt Text](https://github.com/wq923/OpenCV/mouse_paint/rectangle.png)
