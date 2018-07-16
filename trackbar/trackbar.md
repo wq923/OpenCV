@@ -20,3 +20,6 @@
 
 结果        
 ![Alt Text](https://github.com/wq923/OpenCV/blob/master/trackbar/trackbar.png)    
+
+继续练习，用调出的颜色当做画笔颜色，画出圆形。    
+![Alt Text](https://github.com/wq923/OpenCV/blob/master/trackbar/draw_color.png)    

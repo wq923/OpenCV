@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="edf82ef8-8441-4dca-9242-0a193883f01d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/trackbar/track_bar.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/trackbar/trackbar.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/trackbar/trackbar.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/trackbar/draw_color.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/trackbar/track_paint.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/trackbar/trackbar.md" afterPath="$PROJECT_DIR$/trackbar/trackbar.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,6 +21,7 @@
     <SUITE FILE_PATH="coverage/OpenCV$img_show_matplotlib.coverage" NAME="img_show_matplotlib Coverage Results" MODIFIED="1531313135478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/image" />
     <SUITE FILE_PATH="coverage/OpenCV$draw_circle.coverage" NAME="draw_circle Coverage Results" MODIFIED="1531405165555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/draw" />
     <SUITE FILE_PATH="coverage/OpenCV$mouse_event_advance.coverage" NAME="mouse_event_advance Coverage Results" MODIFIED="1531565239336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mouse_paint" />
+    <SUITE FILE_PATH="coverage/OpenCV$track_paint.coverage" NAME="track_paint Coverage Results" MODIFIED="1531748034815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trackbar" />
     <SUITE FILE_PATH="coverage/OpenCV$video_save.coverage" NAME="video_save Coverage Results" MODIFIED="1531320125606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/video" />
     <SUITE FILE_PATH="coverage/OpenCV$draw_rect.coverage" NAME="draw_rect Coverage Results" MODIFIED="1531404336971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/draw" />
     <SUITE FILE_PATH="coverage/OpenCV$draw_text.coverage" NAME="draw_text Coverage Results" MODIFIED="1531406994997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/draw" />
@@ -53,8 +54,8 @@
       <file leaf-file-name="track_bar.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/trackbar/track_bar.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="36" column="44" lean-forward="true" selection-start-line="33" selection-start-column="4" selection-end-line="36" selection-end-column="44" />
+            <state relative-caret-position="152">
+              <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding>
                 <element signature="e#108#118#0" expanded="true" />
               </folding>
@@ -66,11 +67,21 @@
         <entry file="file://$PROJECT_DIR$/trackbar/trackbar.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="286">
-                <caret line="21" column="73" lean-forward="false" selection-start-line="21" selection-start-column="73" selection-end-line="21" selection-end-column="73" />
+              <first_editor relative-caret-position="324">
+                <caret line="23" column="27" lean-forward="false" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="track_paint.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trackbar/track_paint.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="23" column="33" lean-forward="false" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -92,8 +103,8 @@
       <file leaf-file-name="mouse_event.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mouse_paint/mouse_event.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="28" column="43" lean-forward="false" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
+            <state relative-caret-position="248">
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="22" selection-end-column="52" />
               <folding>
                 <element signature="e#75#85#0" expanded="true" />
               </folding>
@@ -125,6 +136,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>imread</find>
+      <find>draw_listener</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -157,6 +169,7 @@
         <option value="$PROJECT_DIR$/mouse_paint/mouse_event_advance.py" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/trackbar/track_bar.py" />
+        <option value="$PROJECT_DIR$/trackbar/track_paint.py" />
         <option value="$PROJECT_DIR$/trackbar/trackbar.md" />
       </list>
     </option>
@@ -200,6 +213,11 @@
             <path>
               <item name="OpenCV" type="b2602c69:ProjectViewProjectNode" />
               <item name="OpenCV" type="462c0819:PsiDirectoryNode" />
+              <item name="mouse_paint" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OpenCV" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OpenCV" type="462c0819:PsiDirectoryNode" />
               <item name="trackbar" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -234,7 +252,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.track_bar">
+  <component name="RunManager" selected="Python.track_paint">
     <configuration name="draw_opencv" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -249,25 +267,6 @@
       <module name="OpenCV" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/draw/draw_opencv.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="draw_text" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/draw" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="OpenCV" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/draw/draw_text.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -330,20 +329,39 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="track_paint" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/trackbar" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="OpenCV" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/trackbar/track_paint.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.draw_text" />
-      <item index="1" class="java.lang.String" itemvalue="Python.draw_opencv" />
-      <item index="2" class="java.lang.String" itemvalue="Python.mouse_event" />
-      <item index="3" class="java.lang.String" itemvalue="Python.mouse_event_advance" />
-      <item index="4" class="java.lang.String" itemvalue="Python.track_bar" />
+      <item index="0" class="java.lang.String" itemvalue="Python.draw_opencv" />
+      <item index="1" class="java.lang.String" itemvalue="Python.mouse_event" />
+      <item index="2" class="java.lang.String" itemvalue="Python.mouse_event_advance" />
+      <item index="3" class="java.lang.String" itemvalue="Python.track_bar" />
+      <item index="4" class="java.lang.String" itemvalue="Python.track_paint" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.track_bar" />
-        <item index="1" class="java.lang.String" itemvalue="Python.mouse_event_advance" />
-        <item index="2" class="java.lang.String" itemvalue="Python.mouse_event" />
-        <item index="3" class="java.lang.String" itemvalue="Python.draw_opencv" />
-        <item index="4" class="java.lang.String" itemvalue="Python.draw_text" />
+        <item index="0" class="java.lang.String" itemvalue="Python.track_paint" />
+        <item index="1" class="java.lang.String" itemvalue="Python.track_bar" />
+        <item index="2" class="java.lang.String" itemvalue="Python.mouse_event_advance" />
+        <item index="3" class="java.lang.String" itemvalue="Python.mouse_event" />
+        <item index="4" class="java.lang.String" itemvalue="Python.draw_opencv" />
       </list>
     </recent_temporary>
   </component>
@@ -438,7 +456,14 @@
       <option name="project" value="LOCAL" />
       <updated>1531567337859</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="1、滑动条做调色板。">
+      <created>1531747241599</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1531747241599</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -479,23 +504,14 @@
     <MESSAGE value="1、添加了 Video 操作相关代码" />
     <MESSAGE value="1、添加 OpenCV 画图操作相关代码。" />
     <MESSAGE value="1、添加 OpenCV 鼠标事件监听功能。" />
-    <option name="LAST_COMMIT_MESSAGE" value="1、添加 OpenCV 鼠标事件监听功能。" />
+    <MESSAGE value="1、滑动条做调色板。" />
+    <option name="LAST_COMMIT_MESSAGE" value="1、滑动条做调色板。" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mouse_paint/mouse_event_advance.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1178">
-          <caret line="63" column="44" lean-forward="false" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="44" />
-          <folding>
-            <element signature="e#75#85#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/image/img_read.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -813,16 +829,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mouse_paint/mouse_event.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="28" column="43" lean-forward="false" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
-          <folding>
-            <element signature="e#75#85#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -834,21 +840,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/mouse_paint/mouse_event.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="22" selection-end-column="52" />
+          <folding>
+            <element signature="e#75#85#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/trackbar/track_bar.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="36" column="44" lean-forward="true" selection-start-line="33" selection-start-column="4" selection-end-line="36" selection-end-column="44" />
+        <state relative-caret-position="152">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding>
             <element signature="e#108#118#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/trackbar/track_paint.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="23" column="33" lean-forward="false" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/trackbar/trackbar.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="286">
-            <caret line="21" column="73" lean-forward="false" selection-start-line="21" selection-start-column="73" selection-end-line="21" selection-end-column="73" />
+          <first_editor relative-caret-position="324">
+            <caret line="23" column="27" lean-forward="false" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
             <folding />
           </first_editor>
           <second_editor />
