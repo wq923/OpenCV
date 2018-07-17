@@ -2,48 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="edf82ef8-8441-4dca-9242-0a193883f01d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/part_6_imge_opr/car.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/part_6_imge_opr/car_copy.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/part_6_imge_opr/img_make_border.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/part_6_imge_opr/img_merge_splite_rgb.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/part_6_imge_opr/img_opr.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/part_6_imge_opr/img_property.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/part_6_imge_opr/img_px.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/part_6_imge_opr/img_roi.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/part_6_imge_opr/roi.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/draw/OpenCV.png" afterPath="$PROJECT_DIR$/part_3_draw/OpenCV.png" />
-      <change beforePath="$PROJECT_DIR$/draw/draw_circle.py" afterPath="$PROJECT_DIR$/part_3_draw/draw_circle.py" />
-      <change beforePath="$PROJECT_DIR$/draw/draw_ellipse.py" afterPath="$PROJECT_DIR$/part_3_draw/draw_ellipse.py" />
-      <change beforePath="$PROJECT_DIR$/draw/draw_line.py" afterPath="$PROJECT_DIR$/part_3_draw/draw_line.py" />
-      <change beforePath="$PROJECT_DIR$/draw/draw_opencv.py" afterPath="$PROJECT_DIR$/part_3_draw/draw_opencv.py" />
-      <change beforePath="$PROJECT_DIR$/draw/draw_rect.py" afterPath="$PROJECT_DIR$/part_3_draw/draw_rect.py" />
-      <change beforePath="$PROJECT_DIR$/draw/draw_reshape.py" afterPath="$PROJECT_DIR$/part_3_draw/draw_reshape.py" />
-      <change beforePath="$PROJECT_DIR$/draw/draw_text.py" afterPath="$PROJECT_DIR$/part_3_draw/draw_text.py" />
-      <change beforePath="$PROJECT_DIR$/image/car.jpg" afterPath="$PROJECT_DIR$/part_1_image/car.jpg" />
-      <change beforePath="$PROJECT_DIR$/image/car_write_copy.jpg" afterPath="$PROJECT_DIR$/part_1_image/car_write_copy.jpg" />
-      <change beforePath="$PROJECT_DIR$/image/demo_save.jpg" afterPath="$PROJECT_DIR$/part_1_image/demo_save.jpg" />
-      <change beforePath="$PROJECT_DIR$/image/img_demo.py" afterPath="$PROJECT_DIR$/part_1_image/img_demo.py" />
-      <change beforePath="$PROJECT_DIR$/image/img_read.py" afterPath="$PROJECT_DIR$/part_1_image/img_read.py" />
-      <change beforePath="$PROJECT_DIR$/image/img_show.py" afterPath="$PROJECT_DIR$/part_1_image/img_show.py" />
-      <change beforePath="$PROJECT_DIR$/image/img_show_matplotlib.py" afterPath="$PROJECT_DIR$/part_1_image/img_show_matplotlib.py" />
-      <change beforePath="$PROJECT_DIR$/image/img_show_size.py" afterPath="$PROJECT_DIR$/part_1_image/img_show_size.py" />
-      <change beforePath="$PROJECT_DIR$/image/img_write.py" afterPath="$PROJECT_DIR$/part_1_image/img_write.py" />
-      <change beforePath="$PROJECT_DIR$/mouse_paint/circle.png" afterPath="$PROJECT_DIR$/part_4_mouse_paint/circle.png" />
-      <change beforePath="$PROJECT_DIR$/mouse_paint/circle01.png" afterPath="$PROJECT_DIR$/part_4_mouse_paint/circle01.png" />
-      <change beforePath="$PROJECT_DIR$/mouse_paint/mouse_event.py" afterPath="$PROJECT_DIR$/part_4_mouse_paint/mouse_event.py" />
-      <change beforePath="$PROJECT_DIR$/mouse_paint/mouse_event_advance.py" afterPath="$PROJECT_DIR$/part_4_mouse_paint/mouse_event_advance.py" />
-      <change beforePath="$PROJECT_DIR$/mouse_paint/rectangle.png" afterPath="$PROJECT_DIR$/part_4_mouse_paint/rectangle.png" />
-      <change beforePath="$PROJECT_DIR$/mouse_paint/rectangle01.png" afterPath="$PROJECT_DIR$/part_4_mouse_paint/rectangle01.png" />
-      <change beforePath="$PROJECT_DIR$/trackbar/draw_color.png" afterPath="$PROJECT_DIR$/part_5_trackbar/draw_color.png" />
-      <change beforePath="$PROJECT_DIR$/trackbar/track_bar.py" afterPath="$PROJECT_DIR$/part_5_trackbar/track_bar.py" />
-      <change beforePath="$PROJECT_DIR$/trackbar/track_paint.py" afterPath="$PROJECT_DIR$/part_5_trackbar/track_paint.py" />
-      <change beforePath="$PROJECT_DIR$/trackbar/trackbar.md" afterPath="$PROJECT_DIR$/part_5_trackbar/trackbar.md" />
-      <change beforePath="$PROJECT_DIR$/trackbar/trackbar.png" afterPath="$PROJECT_DIR$/part_5_trackbar/trackbar.png" />
-      <change beforePath="$PROJECT_DIR$/video/__init__.py" afterPath="$PROJECT_DIR$/part_2_video/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/video/output.avi" afterPath="$PROJECT_DIR$/part_2_video/output.avi" />
-      <change beforePath="$PROJECT_DIR$/video/video_capture.py" afterPath="$PROJECT_DIR$/part_2_video/video_capture.py" />
-      <change beforePath="$PROJECT_DIR$/video/video_save.py" afterPath="$PROJECT_DIR$/part_2_video/video_save.py" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -81,12 +41,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="1311">
+                <caret line="69" column="74" lean-forward="false" selection-start-line="69" selection-start-column="74" selection-end-line="69" selection-end-column="74" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="trackbar.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/part_5_trackbar/trackbar.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="343">
-                <caret line="24" column="71" lean-forward="false" selection-start-line="24" selection-start-column="71" selection-end-line="24" selection-end-column="71" />
+              <first_editor relative-caret-position="335">
+                <caret line="24" column="71" lean-forward="false" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="71" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -154,7 +127,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="img_opr.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="img_opr.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/part_6_imge_opr/img_opr.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -222,7 +195,6 @@
         <option value="$PROJECT_DIR$/draw/draw_opencv.py" />
         <option value="$PROJECT_DIR$/mouse_paint/mouse_event.py" />
         <option value="$PROJECT_DIR$/mouse_paint/mouse_event_advance.py" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/trackbar/track_bar.py" />
         <option value="$PROJECT_DIR$/trackbar/track_paint.py" />
         <option value="$PROJECT_DIR$/trackbar/trackbar.md" />
@@ -233,6 +205,7 @@
         <option value="$PROJECT_DIR$/part_5_trackbar/trackbar.md" />
         <option value="$PROJECT_DIR$/part_6_imge_opr/img_px.py" />
         <option value="$PROJECT_DIR$/part_6_imge_opr/img_opr.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -537,7 +510,14 @@
       <option name="project" value="LOCAL" />
       <updated>1531748261297</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="1、图像的基本操作。">
+      <created>1531833413529</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1531833413529</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -580,7 +560,8 @@
     <MESSAGE value="1、添加 OpenCV 鼠标事件监听功能。" />
     <MESSAGE value="1、滑动条做调色板。" />
     <MESSAGE value="1、画笔调色，画出各种颜色的圆形。" />
-    <option name="LAST_COMMIT_MESSAGE" value="1、画笔调色，画出各种颜色的圆形。" />
+    <MESSAGE value="1、图像的基本操作。" />
+    <option name="LAST_COMMIT_MESSAGE" value="1、图像的基本操作。" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -591,6 +572,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -598,6 +580,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="45" lean-forward="true" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -605,6 +588,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -612,6 +596,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -630,6 +615,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -657,6 +643,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="45" lean-forward="false" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -664,6 +651,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -671,6 +659,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="11" column="49" lean-forward="false" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+          <folding>
+            <element signature="e#131#141#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -685,6 +676,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -692,6 +684,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="14" selection-end-column="10" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -704,6 +697,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -815,17 +809,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="143">
-            <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/part_4_mouse_paint/mouse_event.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="248">
@@ -919,17 +902,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/part_5_trackbar/trackbar.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="343">
-            <caret line="24" column="71" lean-forward="false" selection-start-line="24" selection-start-column="71" selection-end-line="24" selection-end-column="71" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/part_6_imge_opr/img_property.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -951,6 +923,28 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="361">
             <caret line="19" column="17" lean-forward="false" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part_5_trackbar/trackbar.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="335">
+            <caret line="24" column="71" lean-forward="false" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="71" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1311">
+            <caret line="69" column="74" lean-forward="false" selection-start-line="69" selection-start-column="74" selection-end-line="69" selection-end-column="74" />
             <folding />
           </first_editor>
           <second_editor />
