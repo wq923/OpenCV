@@ -25,11 +25,11 @@ def draw_listener(event, x, y, flags, param):
 
 print_all_mouse_events()
 img = np.zeros((512, 512, 3), np.int8)
-cv2.namedWindow("image")
-cv2.setMouseCallback("image", draw_listener)   # 为鼠标事件设置监听回调函数
+cv2.namedWindow("part_1_image")
+cv2.setMouseCallback("part_1_image", draw_listener)   # 为鼠标事件设置监听回调函数
 
 while 1:
-    cv2.imshow("image", img)
+    cv2.imshow("part_1_image", img)
 
     if cv2.waitKey(20) & 0xff == 27:  # 等待按键按下，返回按键的 ASCII 码
         break

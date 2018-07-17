@@ -19,7 +19,7 @@
     s = cv2.getTrackbarPos(switch, 'canvas')
 
 结果        
-![Alt Text](https://github.com/wq923/OpenCV/blob/master/trackbar/trackbar.png)    
+![Alt Text](https://github.com/wq923/OpenCV/blob/master/part_5_trackbar/trackbar.png)    
 
 继续练习，用调出的颜色当做画笔颜色，画出圆形。    
-![Alt Text](https://github.com/wq923/OpenCV/blob/master/trackbar/draw_color.png)    
+![Alt Text](https://github.com/wq923/OpenCV/blob/master/part_5_trackbar/draw_color.png)    
