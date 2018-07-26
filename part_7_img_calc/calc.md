@@ -57,4 +57,13 @@ OpenCV 加法和 Numpy 加法的操作结果有很大不同，如下程序：
 混合结果：
 ![Alt Text](https://github.com/wq923/OpenCV/blob/master/part_7_img_calc/after_weighted.png)    
 
-### 图像混合
+### 按位运算
+位操作：
+    
+    AND、OR、NOT、XOR
+当我们提取图像一部分，选择非矩形的ROI时，这些操作会很有用。
+下面的例子教我们如何改变一幅图的一部分区域。
+要把 OpenCV 标志放到另一幅图像上。使用加法，会导致颜色会改变；使用混合，
+会有透明效果；如果用ROI，又不是矩形。所以选择位运算。
+
+
